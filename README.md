@@ -8,4 +8,4 @@ having <a href="https://hardhat.org/"> hardhat</a>, <a href="https://www.npmjs.c
 
 # how to : 
 
-```$ sh reactdapp.sh projectName ```
+```$ sh reactdapp.sh project-name ```
